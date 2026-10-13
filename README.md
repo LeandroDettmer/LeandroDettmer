@@ -47,33 +47,6 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
   <a href="https://fivedollars.dev"><img src="https://img.shields.io/badge/site-fivedollars.dev-1f6feb?labelColor=0d1117" alt="Site" /></a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LeandroDettmer/5Share">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=5Share&theme=github_dark&hide_border=true&description_lines_count=2" alt="5Share" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LeandroDettmer/DataBridgeApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=DataBridgeApp&theme=github_dark&hide_border=true&description_lines_count=2" alt="DataBridgeApp" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LeandroDettmer/Boleto-Search-Infos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=Boleto-Search-Infos&theme=github_dark&hide_border=true&description_lines_count=2" alt="Boleto-Search-Infos" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/LeandroDettmer/ps2-web-recomp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=ps2-web-recomp&theme=github_dark&hide_border=true&description_lines_count=2" alt="ps2-web-recomp" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Stats
 
 <div align="center">
