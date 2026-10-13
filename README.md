@@ -47,6 +47,13 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
   <a href="https://fivedollars.dev"><img src="https://img.shields.io/badge/site-fivedollars.dev-1f6feb?labelColor=0d1117" alt="Site" /></a>
 </p>
 
+## Contribuições open source
+
+| Projeto | Contribuição |
+| --- | --- |
+| [transact-rs/sqlx](https://github.com/transact-rs/sqlx) <br /><sub>Toolkit SQL assíncrono para Rust (17k+ stars)</sub> | [#4436](https://github.com/transact-rs/sqlx/pull/4436) fix(mysql): usa o nonce do AuthSwitchRequest no full auth do `caching_sha2_password` · **merged** |
+| [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) <br /><sub>Jogos de PS2 no navegador via recompilação estática para WebAssembly</sub> | [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) Midnight Club 3 boots to its menus · **merged** |
+
 ## GitHub Stats
 
 <div align="center">
