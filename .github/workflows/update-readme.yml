@@ -20,3 +20,12 @@ jobs:
         with:
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 8
+      - name: Strip emojis from activity list
+        run: |
+          perl -CSD -i -pe 's/^(\d+\.) [\x{1F300}-\x{1FAFF}\x{2600}-\x{27BF}]\x{FE0F}? /$1 /' README.md
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: strip activity emojis"
+            git push
+          fi

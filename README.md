@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Leandro 👋
+# Leandro Dettmer
 
 **Fintech Developer @ [Clinicorp](https://www.clinicorp.com) · Jaraguá do Sul / SC**
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 💳 Trabalho com **fintech e meios de pagamento**: APIs de cobrança, conciliação, antecipação e integrações bancárias.
-- ⚙️ No dia a dia: **TypeScript / Node.js / NestJS** no backend, com dados em **BigQuery** e **PostgreSQL**.
-- 🦀 Nas horas vagas: apps desktop nativos com **Rust + Tauri**, como o [FiveDollars](https://github.com/LeandroDettmer/FiveDollars).
-- 🐍 Também escrevo **Python** (dados e IA) e **C#** (mods e projetos pessoais).
-- 🌐 Site do meu projeto principal: [fivedollars.dev](https://fivedollars.dev)
+- Trabalho com **fintech e meios de pagamento**: APIs de cobrança, conciliação, antecipação e integrações bancárias.
+- No dia a dia: **TypeScript / Node.js / NestJS** no backend, com dados em **BigQuery** e **PostgreSQL**.
+- Nas horas vagas: apps desktop nativos com **Rust + Tauri**, como o [FiveDollars](https://github.com/LeandroDettmer/FiveDollars).
+- Também escrevo **Python** (dados e IA) e **C#** (mods e projetos pessoais).
+- Site do meu projeto principal: [fivedollars.dev](https://fivedollars.dev)
 
-## 🛠️ Stack
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -35,9 +35,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 💵 [FiveDollars](https://github.com/LeandroDettmer/FiveDollars) ⭐
+### [FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
 
 Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nativa ao Postman/Insomnia feita com **Tauri**. HTTP (REST, GraphQL, WebSocket, SSE, MQTT), cliente SQL e um cockpit para agentes de código, tudo numa janela só. Sem conta, sem proxy, sem nuvem. Disponível para macOS, Windows, Linux, web e VS Code.
 
@@ -53,13 +53,11 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
       <a href="https://github.com/LeandroDettmer/5Share">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=5Share&theme=github_dark&hide_border=true&description_lines_count=2" alt="5Share" />
       </a>
-      <br /><sub>Coleções compartilhadas do FiveDollars (<code>.fivedollars/shares</code>).</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/LeandroDettmer/DataBridgeApp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=DataBridgeApp&theme=github_dark&hide_border=true&description_lines_count=2" alt="DataBridgeApp" />
       </a>
-      <br /><sub>DataBridge: app desktop (Tauri) para macOS — releases e canal de auto-update.</sub>
     </td>
   </tr>
   <tr>
@@ -67,18 +65,16 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
       <a href="https://github.com/LeandroDettmer/Boleto-Search-Infos">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=Boleto-Search-Infos&theme=github_dark&hide_border=true&description_lines_count=2" alt="Boleto-Search-Infos" />
       </a>
-      <br /><sub>Extrai informações de boletos a partir do código de barras (TypeScript).</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/LeandroDettmer/ps2-web-recomp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeandroDettmer&repo=ps2-web-recomp&theme=github_dark&hide_border=true&description_lines_count=2" alt="ps2-web-recomp" />
       </a>
-      <br /><sub>Fork: jogos de PS2 no navegador via recompilação estática para WebAssembly (C++).</sub>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandroDettmer&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
@@ -87,21 +83,21 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
   <img src="https://streak-stats.demolab.com?user=LeandroDettmer&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
-## ⚡ Atividade recente
+## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) in [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
-2. 🚀 Published release [v1.0.9](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.9) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-3. 🚀 Published release [v1.0.8](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.8) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-4. 🎉 Merged PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
-5. 🚀 Published release [v1.0.7](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.7) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-6. 💪 Opened PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
-7. 🚀 Published release [v1.0.6](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.6) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-8. 🚀 Published release [v1.0.5](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.5) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+1. Opened PR [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) in [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
+2. Published release [v1.0.9](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.9) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+3. Published release [v1.0.8](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.8) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+4. Merged PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
+5. Published release [v1.0.7](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.7) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+6. Opened PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
+7. Published release [v1.0.6](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.6) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+8. Published release [v1.0.5](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.5) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
 <!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
-  <sub>Feito com ☕ em Jaraguá do Sul · Atualizado automaticamente via GitHub Actions</sub>
+  <sub>Atualizado automaticamente via GitHub Actions</sub>
 </div>
