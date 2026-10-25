@@ -52,6 +52,7 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
 | Projeto | Contribuição |
 | --- | --- |
 | [transact-rs/sqlx](https://github.com/transact-rs/sqlx) <br /><sub>Toolkit SQL assíncrono para Rust (17k+ stars)</sub> | [#4436](https://github.com/transact-rs/sqlx/pull/4436) fix(mysql): usa o nonce do AuthSwitchRequest no full auth do `caching_sha2_password` · **merged** |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) <br /><sub>Debloat de Android/Google TV via Wi-Fi com home estilo Apple TV (33k+ stars)</sub> | [#1502](https://github.com/Gathin23/cleanyourtv/pull/1502) docs: Moonlight com dois controles precisa de `gamepad_passthrough` · **merged** |
 | [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) <br /><sub>Jogos de PS2 no navegador via recompilação estática para WebAssembly</sub> | [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) Midnight Club 3 boots to its menus · **merged** |
 
 ## GitHub Stats
