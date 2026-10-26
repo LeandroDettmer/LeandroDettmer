@@ -67,14 +67,14 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1502](https://github.com/Gathin23/cleanyourtv/pull/1502) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
-2. 🚀 Published release [v1.0.11](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.11) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-3. 🚀 Published release [v1.0.10](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.10) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-4. 💪 Opened PR [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) in [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
-5. 🚀 Published release [v1.0.9](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.9) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-6. 🚀 Published release [v1.0.8](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.8) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-7. 🎉 Merged PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
-8. 🚀 Published release [v1.0.7](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.7) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+1. Opened PR [#1502](https://github.com/Gathin23/cleanyourtv/pull/1502) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+2. Published release [v1.0.11](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.11) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+3. Published release [v1.0.10](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.10) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+4. Opened PR [#2](https://github.com/snuri00/ps2-web-recomp/pull/2) in [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
+5. Published release [v1.0.9](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.9) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+6. Published release [v1.0.8](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.8) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+7. Merged PR [#4436](https://github.com/transact-rs/sqlx/pull/4436) in [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
+8. Published release [v1.0.7](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.7) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
 <!--END_SECTION:activity-->
 
 ---
