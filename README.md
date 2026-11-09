@@ -2,7 +2,7 @@
 
 # Leandro Dettmer
 
-**Fintech Developer @ [Clinicorp](https://www.clinicorp.com) · Jaraguá do Sul / SC**
+**Fintech Developer**
 
 *Building payment systems by day, developer tools by night.*
 
