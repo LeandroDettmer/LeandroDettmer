@@ -67,14 +67,14 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.13](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.13) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-2. 🚀 Published release [MAJ v0.1.0](https://github.com/LeandroDettmer/maj-releases/releases/tag/v0.1.0) in [LeandroDettmer/maj-releases](https://github.com/LeandroDettmer/maj-releases)
-3. 🚀 Published release [v1.0.12](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.12) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-4. 🗣 Commented on [#1](https://github.com/LeandroDettmer/mc3-web/issues/1#issuecomment-6764371492) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-5. 🗣 Commented on [#462960](https://github.com/microsoft/winget-pkgs/pull/462960#issuecomment-6445160159) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-6. 💪 Opened PR [#462960](https://github.com/microsoft/winget-pkgs/pull/462960) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-7. 💪 Opened PR [#1502](https://github.com/Gathin23/cleanyourtv/pull/1502) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
-8. 🚀 Published release [v1.0.11](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.11) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+1. Published release [v1.0.13](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.13) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+2. Published release [MAJ v0.1.0](https://github.com/LeandroDettmer/maj-releases/releases/tag/v0.1.0) in [LeandroDettmer/maj-releases](https://github.com/LeandroDettmer/maj-releases)
+3. Published release [v1.0.12](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.12) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+4. Commented on [#1](https://github.com/LeandroDettmer/mc3-web/issues/1#issuecomment-6764371492) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+5. Commented on [#462960](https://github.com/microsoft/winget-pkgs/pull/462960#issuecomment-6445160159) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+6. Opened PR [#462960](https://github.com/microsoft/winget-pkgs/pull/462960) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+7. Opened PR [#1502](https://github.com/Gathin23/cleanyourtv/pull/1502) in [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+8. Published release [v1.0.11](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.11) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
 <!--END_SECTION:activity-->
 
 ---
