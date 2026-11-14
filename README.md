@@ -67,14 +67,14 @@ Cliente de API desktop **gratuito, leve e local-first** — uma alternativa nati
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/LeandroDettmer/mc3-web/issues/2#issuecomment-6871828600) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-2. 🗣 Commented on [#7](https://github.com/LeandroDettmer/mc3-web/issues/7#issuecomment-6871786420) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-3. 🗣 Commented on [#5](https://github.com/LeandroDettmer/mc3-web/issues/5#issuecomment-6871785971) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-4. 🗣 Commented on [#4](https://github.com/LeandroDettmer/mc3-web/issues/4#issuecomment-6871785405) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-5. 🗣 Commented on [#3](https://github.com/LeandroDettmer/mc3-web/issues/3#issuecomment-6871784755) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-6. 🗣 Commented on [#1](https://github.com/LeandroDettmer/mc3-web/issues/1#issuecomment-6871784258) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
-7. 🚀 Published release [v1.0.13](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.13) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
-8. 🚀 Published release [MAJ v0.1.0](https://github.com/LeandroDettmer/maj-releases/releases/tag/v0.1.0) in [LeandroDettmer/maj-releases](https://github.com/LeandroDettmer/maj-releases)
+1. Commented on [#2](https://github.com/LeandroDettmer/mc3-web/issues/2#issuecomment-6871828600) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+2. Commented on [#7](https://github.com/LeandroDettmer/mc3-web/issues/7#issuecomment-6871786420) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+3. Commented on [#5](https://github.com/LeandroDettmer/mc3-web/issues/5#issuecomment-6871785971) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+4. Commented on [#4](https://github.com/LeandroDettmer/mc3-web/issues/4#issuecomment-6871785405) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+5. Commented on [#3](https://github.com/LeandroDettmer/mc3-web/issues/3#issuecomment-6871784755) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+6. Commented on [#1](https://github.com/LeandroDettmer/mc3-web/issues/1#issuecomment-6871784258) in [LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web)
+7. Published release [v1.0.13](https://github.com/LeandroDettmer/FiveDollars/releases/tag/v1.0.13) in [LeandroDettmer/FiveDollars](https://github.com/LeandroDettmer/FiveDollars)
+8. Published release [MAJ v0.1.0](https://github.com/LeandroDettmer/maj-releases/releases/tag/v0.1.0) in [LeandroDettmer/maj-releases](https://github.com/LeandroDettmer/maj-releases)
 <!--END_SECTION:activity-->
 
 ---
